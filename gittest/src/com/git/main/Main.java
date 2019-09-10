@@ -3,10 +3,14 @@ package com.git.main;
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("³»°¡ ¸¸µç°Í");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½");
 		
-		System.out.println("¿©·¯ºÐ ±ê Àç¹ÕÁÒ?");
-
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½?");
+		
+		
+		
+		
+		
 	}
 
 }
